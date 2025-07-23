@@ -15,10 +15,12 @@
     "@firebase/storage": "^0.13.14",
     "@google/genai": "^1.9.0",
     "@google/generative-ai": "^0.24.1",
+    "@types/react-router-dom": "^5.3.3",
     "firebase": "^11.10.0",
     "html2canvas": "^1.4.1",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.0"
   },
   "devDependencies": {
     "@types/html2canvas": "^0.5.35",
